@@ -70,15 +70,15 @@ La clase `Service` realiza las operaciones de conversión de monedas. Sus princi
 
 ### Menú de Selección de Moneda
 
-![Menú de Selección](/recursos.Captura1.png)
+![Menú de Selección](recursos/Captura1.png)
 
 ### Resultado de Conversión
 
-![Resultado de Conversión](ruta/a/tu/captura/resultado.png)
+![Resultado de Conversión](recursos/Captura2.png)
 
 ### Historial de Conversiones
 
-![Historial de Conversiones](ruta/a/tu/captura/historial.png)
+![Historial de Conversiones](recursos/Captura3.png)
 
 ## Instalación
 

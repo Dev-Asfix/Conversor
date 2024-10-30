@@ -70,7 +70,7 @@ La clase `Service` realiza las operaciones de conversión de monedas. Sus princi
 
 ### Menú de Selección de Moneda
 
-![Menú de Selección](recursos.Captura1.png)
+![Menú de Selección](/recursos.Captura1.png)
 
 ### Resultado de Conversión
 
